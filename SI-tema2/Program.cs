@@ -14,6 +14,7 @@ namespace SI_tema2
         static List<Node> noduriSprim = new List<Node>();
         static List<Node> noduriPprim = new List<Node>();
 
+
         public static void Main(string[] args)
         {
 

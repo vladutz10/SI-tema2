@@ -1,0 +1,23 @@
+Noduri:
+A subiect
+B obiect
+C obiect
+D obiect
+E obiect
+F subiect
+G subiect
+Muchii:
+A: out tg B
+B: in tg A
+B: out g C
+B: in g D
+C: in g B
+C: out g E
+D: out t B
+D: in g E
+E: in g C
+E: out g D
+E: in tg F
+F: out tg E
+F: in r G
+G: out r F
